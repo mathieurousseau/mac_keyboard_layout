@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.nono.31</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Nono.31</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Nono.31</key>
@@ -15,7 +15,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..nono.31</string>
+		<string>org.sil.ukelele.keyboardlayout.nono.31.nono.31</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
