@@ -1264,7 +1264,7 @@
             <when state="none" next="6"/>
         </action>
         <action id="a5">
-            <when state="none" output=" "/>
+            <when state="none" output=" "/>
             <when state="1" output="&#x0027;"/>
             <when state="2" output="´"/>
             <when state="3" output="¨"/>
